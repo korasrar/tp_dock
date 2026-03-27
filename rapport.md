@@ -183,3 +183,8 @@ Mieux répartir la charge, éviter la surcharge d'un serveur
 > Quels sont les inconvénients?
 
 Configuration du clusteur
+
+```bash
+https://docs.docker.com/engine/swarm/stack-deploy/
+https://docs.docker.com/engine/swarm/swarm-mode/
+```
